@@ -4,7 +4,7 @@ SafeCoinWebWallet is a client-side browser-based wallet for Safecoin [SAFE], bas
 MyZENWallet which is the original client-side browser-based wallet for ZenCASH.
 
 ```shell
-git clone https://github.com/miodragpop/SafeCoinWebWallet.git
+git clone https://github.com/Fair-Exchange/SafeCoinWebWallet.git
 cd SafeCoinWebWallet
 npm install
 yarn run start --host your_server_ip --port your_port 

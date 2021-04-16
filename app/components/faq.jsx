@@ -19,7 +19,7 @@ export default class ZFaq extends React.Component {
 
             <p>
               <b>Q: Can I have the source code?</b><br/>
-              A: <a href="https://github.com/miodragpop">Here you go</a>
+              A: <a href="https://github.com/Fair-Exchange">Here you go</a>
             </p>
 
             <p>
