@@ -11,7 +11,7 @@
     "watch": "webpack --watch"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": ">0.21.1",
     "babel-preset-env": "^1.7.0",
     "bip32-utils": "^0.10.2",
     "bitcoinjs-lib": "^3.3.2",
